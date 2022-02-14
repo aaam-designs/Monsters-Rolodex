@@ -1,0 +1,13 @@
+.card-container {
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.02);
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+    background-color: rgba(0,0,0,0.08);
+
+}
